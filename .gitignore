@@ -1,0 +1,33 @@
+# ---- data: never published ------------------------------------------------
+# raw .bin captures (3.5 GB), the 400 MB preprocessing cache and the split
+# manifests all live under data/. The split is deterministic (seed 42) and is
+# rebuilt with `python -m analysis.split`, so nothing here is required to run.
+data/
+
+# ---- model weights --------------------------------------------------------
+*.pt
+*.pth
+*.ckpt
+
+# ---- third-party reference material ---------------------------------------
+# Papers and their extracted text are not ours to redistribute; the OAI source
+# file is kept locally only as a format reference.
+*.pdf
+*.recovered.txt
+nr_prach.c
+
+# ---- python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- logs and scratch -----------------------------------------------------
+*.log
+*.tmp
+
+# ---- OS -------------------------------------------------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store

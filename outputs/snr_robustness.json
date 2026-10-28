@@ -1,0 +1,194 @@
+[
+  {
+    "device": "UE9",
+    "snr_db": 30,
+    "accuracy": 0.99,
+    "accepted": 0.95,
+    "median_knownness": -4.161897600534704,
+    "destination": "UE12 1"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 25,
+    "accuracy": 0.69,
+    "accepted": 0.0,
+    "median_knownness": -11.006448554218355,
+    "destination": "UE12 31"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 20,
+    "accuracy": 0.0,
+    "accepted": 0.0,
+    "median_knownness": -10.33778434575143,
+    "destination": "model2 54, model1 23"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 15,
+    "accuracy": 0.0,
+    "accepted": 0.0,
+    "median_knownness": -11.085185147922516,
+    "destination": "model2 62, model1 38"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 12,
+    "accuracy": 0.0,
+    "accepted": 0.14,
+    "median_knownness": -8.43661710574446,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 10,
+    "accuracy": 0.0,
+    "accepted": 0.62,
+    "median_knownness": -6.37405535482609,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 8,
+    "accuracy": 0.0,
+    "accepted": 0.68,
+    "median_knownness": -6.303426917473038,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE9",
+    "snr_db": 6,
+    "accuracy": 0.0,
+    "accepted": 0.14,
+    "median_knownness": -7.502840640925124,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 30,
+    "accuracy": 0.98,
+    "accepted": 0.78,
+    "median_knownness": -4.435213487173147,
+    "destination": "UE9 2"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 25,
+    "accuracy": 0.4,
+    "accepted": 0.01,
+    "median_knownness": -9.139483402738168,
+    "destination": "UE9 60"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 20,
+    "accuracy": 0.84,
+    "accepted": 0.0,
+    "median_knownness": -10.726416257066195,
+    "destination": "model2 11, model1 5"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 15,
+    "accuracy": 0.0,
+    "accepted": 0.0,
+    "median_knownness": -11.903658754253128,
+    "destination": "model2 61, model1 39"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 12,
+    "accuracy": 0.0,
+    "accepted": 0.1,
+    "median_knownness": -8.9863807948873,
+    "destination": "model1 95, model2 5"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 10,
+    "accuracy": 0.0,
+    "accepted": 0.5,
+    "median_knownness": -6.746083459544577,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 8,
+    "accuracy": 0.0,
+    "accepted": 0.36,
+    "median_knownness": -7.061521747217059,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE12",
+    "snr_db": 6,
+    "accuracy": 0.0,
+    "accepted": 0.03,
+    "median_knownness": -7.891586878615551,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 30,
+    "accuracy": 1.0,
+    "accepted": 0.96,
+    "median_knownness": -3.951160013300752,
+    "destination": "-"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 25,
+    "accuracy": 0.98,
+    "accepted": 0.61,
+    "median_knownness": -6.344879947516882,
+    "destination": "model1 1, UE12 1"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 20,
+    "accuracy": 0.0,
+    "accepted": 0.09,
+    "median_knownness": -8.52972798403277,
+    "destination": "model2 59, model1 35"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 15,
+    "accuracy": 0.0,
+    "accepted": 0.01,
+    "median_knownness": -10.112580097894345,
+    "destination": "model2 71, model1 29"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 12,
+    "accuracy": 0.0,
+    "accepted": 0.24,
+    "median_knownness": -7.933544702843408,
+    "destination": "model1 98, model2 2"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 10,
+    "accuracy": 0.0,
+    "accepted": 0.65,
+    "median_knownness": -5.957967288592535,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 8,
+    "accuracy": 0.0,
+    "accepted": 0.59,
+    "median_knownness": -6.5197373289306295,
+    "destination": "model1 100"
+  },
+  {
+    "device": "UE17",
+    "snr_db": 6,
+    "accuracy": 0.0,
+    "accepted": 0.1,
+    "median_knownness": -7.563426515910839,
+    "destination": "model1 100"
+  }
+]

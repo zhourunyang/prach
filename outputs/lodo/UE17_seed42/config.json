@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "epochs": 60,
+  "batch_size": 64,
+  "learning_rate": 0.0005,
+  "weight_decay": 0.0005,
+  "embedding_dim": 128,
+  "head": "linear",
+  "ce_weight": 1.0,
+  "maxmin_weight": 0.0,
+  "supcon_weight": 0.0,
+  "label_smoothing": 0.05,
+  "num_classes": 6,
+  "amp": true,
+  "patience": 12,
+  "acceptance": 0.95,
+  "augment": true,
+  "scorer_names": [
+    "msp",
+    "energy",
+    "prototype",
+    "mahalanobis",
+    "openmax"
+  ],
+  "tag": "lodo_UE17_s42"
+}

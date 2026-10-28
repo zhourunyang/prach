@@ -1,0 +1,9 @@
+# Normalise line endings: LF in the repository, native on checkout.
+* text=auto eol=lf
+
+# Binary artefacts that may appear later.
+*.png binary
+*.jpg binary
+*.pt binary
+*.npy binary
+*.bin binary

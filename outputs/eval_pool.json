@@ -1,0 +1,94 @@
+{
+  "per_device": 200,
+  "seed": 0,
+  "rows": [
+    {
+      "device": "UE9",
+      "n": 200,
+      "accuracy": 0.995,
+      "accepted": 0.97,
+      "correct_and_accepted": 0.97,
+      "median_knownness": -3.6890915965703464,
+      "median_confidence": 0.9530152380466461,
+      "destination": "UE12 1",
+      "unknown": false
+    },
+    {
+      "device": "UE12",
+      "n": 200,
+      "accuracy": 0.99,
+      "accepted": 0.915,
+      "correct_and_accepted": 0.915,
+      "median_knownness": -2.813520894664641,
+      "median_confidence": 0.9648592174053192,
+      "destination": "model2 1, UE17 1",
+      "unknown": false
+    },
+    {
+      "device": "UE17",
+      "n": 200,
+      "accuracy": 0.98,
+      "accepted": 0.95,
+      "correct_and_accepted": 0.95,
+      "median_knownness": -3.7246862220209054,
+      "median_confidence": 0.9598955512046814,
+      "destination": "UE9 2, UE12 1",
+      "unknown": false
+    },
+    {
+      "device": "model1",
+      "n": 200,
+      "accuracy": 0.97,
+      "accepted": 0.915,
+      "correct_and_accepted": 0.905,
+      "median_knownness": -3.396274528390216,
+      "median_confidence": 0.9595491290092468,
+      "destination": "model5 2, model9 2",
+      "unknown": false
+    },
+    {
+      "device": "model2",
+      "n": 200,
+      "accuracy": 0.975,
+      "accepted": 0.925,
+      "correct_and_accepted": 0.92,
+      "median_knownness": -2.9676120331512506,
+      "median_confidence": 0.9705888032913208,
+      "destination": "model1 5",
+      "unknown": false
+    },
+    {
+      "device": "model5",
+      "n": 200,
+      "accuracy": 0.97,
+      "accepted": 0.965,
+      "correct_and_accepted": 0.95,
+      "median_knownness": -2.500963744821258,
+      "median_confidence": 0.9781113266944885,
+      "destination": "model1 4, model9 2",
+      "unknown": false
+    },
+    {
+      "device": "model9",
+      "n": 200,
+      "accuracy": 0.98,
+      "accepted": 0.975,
+      "correct_and_accepted": 0.97,
+      "median_knownness": -3.2788508253852506,
+      "median_confidence": 0.9759597778320312,
+      "destination": "model5 3, model1 1",
+      "unknown": false
+    },
+    {
+      "device": "UE20",
+      "n": 200,
+      "accuracy": 0.93,
+      "accepted": 0.07,
+      "correct_and_accepted": 0.0,
+      "median_knownness": -12.311510564518581,
+      "median_confidence": 0.5828507542610168,
+      "destination": "UE9 12, model2 1",
+      "unknown": true
+    }
+  ]
+}
