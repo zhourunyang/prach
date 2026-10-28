@@ -49,6 +49,11 @@ data/
 outputs/               runs、summary.csv、figures/
 ```
 
+> **`data/` 不入库**（见 `.gitignore`）：原始采集 3.5 GB、缓存 400 MB、模型权重 210 MB 都在本地。
+> 仓库里保留了代码、文档、图表和全部 `results.json`。只要把原始 `.bin` 放回 `data/` 的相同目录结构，
+> 划分是确定性的（种子 42），`python -m analysis.split` 能逐字节重建清单。
+> 论文 PDF 与其抽取文本同样不入库。
+
 ## 复现
 
 所有命令在项目根目录执行，使用 `rff` 环境：
